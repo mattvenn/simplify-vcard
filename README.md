@@ -17,5 +17,5 @@ After exporting all my contacts from google as a combined vcf file (contacts.vcf
 * split the contacts.vcf with [vcard-split.py](vcard-split.py) (I adapted from [here](https://gist.github.com/szczys/1478337#file-vcard-split-py))
 * run `simplify.py > backup.dat` to create a file that the Nokia will import
 * save backup.dat onto an sd card, insert into Nokia
-* Nokia -> contacts -> settings -> restore
+* Nokia: menu -> contacts -> settings -> restore contacts
 
